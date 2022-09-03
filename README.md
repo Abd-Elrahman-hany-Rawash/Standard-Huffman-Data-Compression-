@@ -1,1 +1,1 @@
-# Standard-Huffman-main-Data-Compression-
+# Standard-Huffman-Data-Compression-
